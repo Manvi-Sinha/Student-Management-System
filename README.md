@@ -7,6 +7,7 @@ A simple Java-based application to manage student records. This system allows yo
 - Add new student records
 - Prevent duplicate roll numbers
 - Search by name or roll number
+- Display total number of students
 - Input validation and error handling
 - Fields: Name, Roll Number, Gender, Guardian Name, Address
 - Save and retrieve data using file handling
