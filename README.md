@@ -1,2 +1,18 @@
-# student-management-system
-A Java-based Student Management System that allows adding, searching, and managing student records with features like duplicate roll number checks, input validation, and file storage.
+# 🎓 Student Management System
+
+A simple Java-based application to manage student records. This system allows you to add, view, search, and manage student data efficiently.
+
+## ✅ Features
+
+- Add new student records
+- Prevent duplicate roll numbers
+- Search by name or roll number
+- Input validation and error handling
+- Fields: Name, Roll Number, Gender, Guardian Name, Address
+- Save and retrieve data using file handling
+
+## 🛠 Technologies Used
+
+- Java
+- Object-Oriented Programming (OOP)
+- File I/O
